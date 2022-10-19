@@ -1,2 +1,2 @@
 # LR1_Parfonov_RE-21mp
-Lab01
+ЛР1 знаходиться в бранчі "master"
